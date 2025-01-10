@@ -22,7 +22,6 @@ This is a responsive website template designed for a small business. The project
 ## 📂 **Project Structure**
 
 ```
-/assets          # Images, CSS, and JavaScript files
 index.html       # Landing page
 showroom.html    # Gallery page
 contact.html     # Contact page
